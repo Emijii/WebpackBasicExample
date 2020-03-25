@@ -1,0 +1,17 @@
+{
+  "name": "webpack-basic-example",
+  "version": "0.0.0",
+  "description": "WebpackBasicExample",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "3.10.3"
+  },
+  "scripts": {
+    "start:dev": "webpack-dev-server"
+  }
+}
